@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Silver Bells",
+  "base_artist": "スティーヴィー・ワンダー",
+  "createdAt": "2025-12-23T17:03:31.648291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/01_Silver_Bells_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/02_Silver_Bells_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/03_Silver_Bells_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/04_Silver_Bells_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/05_Silver_Bells_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/06_Silver_Bells_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "SWV",
+      "has_synced": false,
+      "path": "select/07_Silver_Bells_SWV.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/08_Silver_Bells_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/09_Silver_Bells_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silver Bells - Take 1",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/10_Silver_Bells_-_Take_1_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Silver Bells (feat. Carol Richards) [Single Version]",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/11_Silver_Bells_(feat._Carol_Richards)_[Single_Version]_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Silver Bells (Single Version)",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/12_Silver_Bells_(Single_Version)_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Silver Bells (feat. Naturally 7)",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/13_Silver_Bells_(feat._Naturally_7)_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Medley: Winter Wonderland / Silver Bells / White Christmas",
+      "artist": "Carpenters",
+      "has_synced": false,
+      "path": "select/14_Medley__Winter_Wonderland___Silver_Bells___White_Christmas_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Silver Bells",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/15_Silver_Bells_Barry_Manilow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Silver Bells",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Silver_Bells_Stevie_Wonder.txt"
+    }
+  ]
+}
